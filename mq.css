@@ -1,3 +1,5 @@
+
+    
 @media screen and (max-width: 1400px) {
     #profile {
       height: 83vh;
@@ -11,14 +13,15 @@
       height: fit-content;
     }
 
-    }
-  
+}
+
   @media screen and (max-width: 1200px) {
-    #desktop-nav {
-      display: none;
+    #desktop-nav{
+        display: none;
+
     }
-    #hamburger-nav {
-      display: flex;
+    #hamburger{
+        display: flex;
     }
     #experience,
     .experience-details-container {
